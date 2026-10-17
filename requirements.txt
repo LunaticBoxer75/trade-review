@@ -1,0 +1,6 @@
+streamlit>=1.30
+pandas>=2.0
+plotly>=5.18
+numpy>=1.24
+anthropic[bedrock]>=0.40
+boto3>=1.34

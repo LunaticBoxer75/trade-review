@@ -1,0 +1,13 @@
+# Your trades and everything derived from them stay local
+csv-exports/*
+insights/*
+ledgers/*
+reports/*
+baseline.json
+!*/.gitkeep
+
+__pycache__/
+.venv/
+venv/
+.DS_Store
+.streamlit/secrets.toml
